@@ -104,8 +104,8 @@ height: 70px;
    
 }
 
-.social p{
-    height: 180px;
+.social ol{
+    height: 220px;
     padding-top: 20px;
 }
 .social .button{
@@ -162,14 +162,7 @@ input, select{
     text-align: left;
 }
 
-/* select, select:focus{
-    border: 3px solid rgb(99, 99, 99);
-    border-radius: 5px;
-    border-color: rgb(244, 144, 23);
-    height: 25px;
-    width: 200px;
-    outline: none;
-} */
+
 
 .marginButton{
     margin-top: 30px;
